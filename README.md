@@ -3,9 +3,9 @@ A simple Java console-based project that simulates a real logging system. It all
 This project is useful for learning Java File Handling, Exception Handling, Date & Time API, Collections, and Menu-Driven Programming.
 
 Features:
-  Generate random logs with timestamp
-  View all logs
-  Filter logs by level
-  Search logs by keyword
-  View log statistics
-  Store logs in logs.txt
+  Generate random logs with timestamp,
+  View all logs,
+  Filter logs by level,
+  Search logs by keyword,
+  View log statistics,
+  Store logs in logs.txt.
