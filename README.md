@@ -8,4 +8,4 @@ Features:
   Filter logs by level,
   Search logs by keyword,
   View log statistics,
-  Store logs in logs.txt
+  Store logs in logs.txt.
